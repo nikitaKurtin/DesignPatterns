@@ -1,7 +1,7 @@
 package concurrency_patterns.thread_pool;
 
 /**
- * Created by Gal on 8/24/2017.
+ * Thread Pool Test
  */
 public class ThreadPoolTest {
     public static void main(String[] args) {
@@ -13,7 +13,7 @@ public class ThreadPoolTest {
                     try {
                         System.out.println("working " + num);
                         Thread.sleep(200);
-                        System.out.println(num + " done");
+                        System.out.println(num + " kill");
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
@@ -26,7 +26,7 @@ public class ThreadPoolTest {
                     try {
                         System.err.println("Big working " + num);
                         Thread.sleep(1000);
-                        System.err.println("Big " + num + " done");
+                        System.err.println("Big " + num + " kill");
                     } catch (InterruptedException e) {
                         e.printStackTrace();
                     }
