@@ -1,4 +1,4 @@
-package gof.creational.builder.meal;
+package gof.creational.builder;
 
 /**
  * Created by Gal on 8/24/2017.

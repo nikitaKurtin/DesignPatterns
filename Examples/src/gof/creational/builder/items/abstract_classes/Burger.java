@@ -1,7 +1,7 @@
-package gof.creational.builder.meal.items.abstract_classes;
+package gof.creational.builder.items.abstract_classes;
 
-import gof.creational.builder.meal.packing.Packing;
-import gof.creational.builder.meal.packing.Wrapper;
+import gof.creational.builder.packing.Packing;
+import gof.creational.builder.packing.Wrapper;
 
 /**
  * Created by Gal on 8/24/2017.

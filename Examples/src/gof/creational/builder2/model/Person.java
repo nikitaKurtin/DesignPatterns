@@ -1,4 +1,4 @@
-package gof.creational.builder.person.model;
+package gof.creational.builder2.model;
 
 /**
  * Created by Gal on 8/23/2017.

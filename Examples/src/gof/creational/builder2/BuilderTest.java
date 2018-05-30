@@ -1,6 +1,6 @@
-package gof.creational.builder.person;
+package gof.creational.builder2;
 
-import gof.creational.builder.person.model.Person;
+import gof.creational.builder2.model.Person;
 
 /**
  * Created by Gal on 8/23/2017.

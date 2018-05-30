@@ -1,4 +1,4 @@
-package gof.creational.factories.factory_method.pizza;
+package gof.creational.factory_method.pizza;
 
 import java.util.Arrays;
 

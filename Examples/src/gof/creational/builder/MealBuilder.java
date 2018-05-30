@@ -1,9 +1,9 @@
-package gof.creational.builder.meal;
+package gof.creational.builder;
 
-import gof.creational.builder.meal.items.concrete_classes.AppleJuice;
-import gof.creational.builder.meal.items.concrete_classes.ChickenBurger;
-import gof.creational.builder.meal.items.concrete_classes.VegBurger;
-import gof.creational.builder.meal.items.concrete_classes.Water;
+import gof.creational.builder.items.concrete_classes.AppleJuice;
+import gof.creational.builder.items.concrete_classes.ChickenBurger;
+import gof.creational.builder.items.concrete_classes.VegBurger;
+import gof.creational.builder.items.concrete_classes.Water;
 
 /**
  * Created by Gal on 8/24/2017.

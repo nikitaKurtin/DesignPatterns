@@ -1,6 +1,6 @@
-package gof.creational.builder.meal.items.concrete_classes;
+package gof.creational.builder.items.concrete_classes;
 
-import gof.creational.builder.meal.items.abstract_classes.Burger;
+import gof.creational.builder.items.abstract_classes.Burger;
 
 /**
  * Created by Gal on 8/24/2017.

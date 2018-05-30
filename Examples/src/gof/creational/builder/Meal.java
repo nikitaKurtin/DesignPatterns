@@ -1,6 +1,6 @@
-package gof.creational.builder.meal;
+package gof.creational.builder;
 
-import gof.creational.builder.meal.items.abstract_classes.EatableItem;
+import gof.creational.builder.items.abstract_classes.EatableItem;
 
 import java.util.ArrayList;
 
