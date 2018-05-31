@@ -1,0 +1,9 @@
+package main_exercises.pizza_place.pizza;
+
+public class KosherPizza implements Pizza {
+
+    @Override
+    public void eat() {
+        System.out.println("Eating Good Kosher pizza in israel most likely");
+    }
+}
